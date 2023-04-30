@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### (Optional) Behavior Cloning Pretrain
 
 ```
-cd v0.5 single-dixcrete-output(multi-players)
+cd v0.5.1 single-dixcrete-output(multi-players)
 python data_recording.py  # -> pretrain_history
 python pretrain.py  # -> history
 ```
